@@ -1,0 +1,5 @@
+package-lock.json
+storageState.json
+presensi_extracted.json
+node_modules/
+failed/

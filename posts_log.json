@@ -1,0 +1,195 @@
+[
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/get_tas",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.144Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/materi_preview/mhs/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.145Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/materi_preview/staff/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.203Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/pengumuman_preview/staff/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.212Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/tugas_preview/staff/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.217Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/kuliah_preview/staff/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.232Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/quiz_preview/staff/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.233Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/pengumuman_preview/mhs/-1/2025",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.236Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/load_beranda",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+    },
+    "postData": "id_group=-1&kdm=1&type=1",
+    "timestamp": "2025-10-25T07:09:19.245Z"
+  },
+  {
+    "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1598080526&t=pageview&_s=1&dl=https%3A%2F%2Fdaring.uin-suka.ac.id%2Fdashboard&ul=en-us&dt=Pembelajaran%20Daring%20UIN%20Sunan%20Kalijaga&sr=1280x720&vp=1280x720&_u=AACAAEABAAAAACAAI~&jid=1654937856&gjid=1183299318&cid=1825237006.1761375104&tid=UA-58618749-1&_gid=1579607365.1761375104&_r=1&_slc=1&z=206034783",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:19.427Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/get_status_survey_mutu",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:25.345Z"
+  },
+  {
+    "url": "https://daring.uin-suka.ac.id/01_dashboard/s04_ct_dashboard2/get_info_pemilwa",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/dashboard",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:25.346Z"
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-F0ZQ4SHE8T&gtm=45je5am0v9107507319za200&_p=1761376159543&gcd=13l3l3l3l2l1&npa=0&dma=0&ul=en-us&sr=1280x720&cid=1825237006.1761375104&ir=1&uaa=x86&uab=64&uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37&uamb=0&uam=&uap=Linux&uapv=6.12.48&uaw=0&are=1&frm=0&pscdl=noapi&_eu=EBAIAAQ&_s=1&tag_exp=101509157~103116026~103200004~103233427~104527907~104528500~104573694~104684208~104684211~104948813~115480709~115583767~115938465~115938468~116217636~116217638&dl=https%3A%2F%2Fdaring.uin-suka.ac.id%2Fdashboard&dt=Pembelajaran%20Daring%20UIN%20Sunan%20Kalijaga&sid=1761375104&sct=1&seg=1&_tu=wAQ&en=page_view&_ee=1&tfd=8824",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://daring.uin-suka.ac.id/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-10-25T07:09:25.372Z"
+  }
+]
