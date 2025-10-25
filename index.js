@@ -23,7 +23,7 @@ function parseTanggal(str) {
   const page = await context.newPage();
 
   await page.goto(DASHBOARD, { waitUntil: 'networkidle' });
-  if (page.url().includes('/login')) {
+  if (page.url().includes('/')) {
     console.log('⚠️ Session kadaluarsa, login ulang dengan save_session.js');
     process.exit(1);
   }
